@@ -46,4 +46,4 @@ Live link: https://property-lovat.vercel.app
 
 server link : https://manage-property-system-server.vercel.app
 
-code link: https://github.com/roy-Pritom/TravelBuddy
+code link: https://github.com/roy-Pritom/Heritage
